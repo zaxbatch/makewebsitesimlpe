@@ -1,0 +1,27 @@
+
+
+.big, h1 h2 {
+	color: #34113F;
+	font-size: 1.8rem;
+}
+
+.info a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+.info a:hover {
+    color: orange;
+}
+
+.info a:active {
+    color: red;
+}
+
+.kind {
+	color: tomato;
+}
+
+.bg {
+	background-color: #868784;
+}
